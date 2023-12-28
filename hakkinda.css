@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+  }
+  
+  .haberbuton {
+    margin-left: 3%;
+    margin-right: 1%;
+    text-transform: uppercase;
+    height: 40px;
+    width: 1450px;
+    color: rgb(116, 117, 119);
+    background-color: rgb(red, green, blue);
+    border: none;
+    position: relative;
+    top: 15px;
+    font: bold 14px Arial, Helvetica, sans-serif;
+    border-radius: 10px
+  }
+  
+  
+  .navwinx1 {
+  
+
+    margin-bottom: 1%;
+    height: 2%;
+    border: none;
+    position: relative;
+    top: 15px;
+    font: bold 14px Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+     color: rgb(91, 91, 91);
+     margin-left: 30px;
+  }
+  
+  .winx {
+    margin-top: 25px;
+    background-position-y: 0px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 15px;
+   
+    background-color: rgb(239, 236, 235);
+    text-align: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+   
+  }
+  
+  
+  
+  
+  .rounded-bottom-4 {
+    width: 1450px;
+    height: 600px;
+    margin-left: -78px;
+    margin-top: -5px;
+  
+  
+  }
+ 
+   
+
+.fa-regular{
+  width: 100px;
+}
+
+
+.card-body8{
+  border-radius: 20px;
+}
+
+
+  
+  .hakkindacontent{
+      margin-left: 2%;
+  text-transform: uppercase;
+  height: 700px;
+  width: 1450px;
+  color: rgb(91, 91, 91);
+  background-color: rgb(239, 236, 235);
+  position: relative;
+  top: 15px;
+  font: bold 14px Arial, Helvetica, sans-serif;
+  text-align: center;
+  border-radius: 20px;
+  }
+
+  .hakkindacontentbody{
+    margin-top: -30px;
+  font: 25px Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-left: 450px;
+
+
+  }
+  .hakkindacontentyazi{
+    margin-top: 10px;
+    
+  }
+  .kurucuyazi{
+    margin-top: 10px;
+  }
+
+.teklikart{
+border-radius: 20px;
+}
+
+
+  
+.card-body9{
+  background-color:rgb(239, 236, 235);
+  width: 700px;
+  height: 700px;
+  margin-left: 40px;
+ border-radius: 20px;
+ 
+}
+
+
+  .resimlikart{
+    margin-left: 740px;
+    border-radius: 20px;
+    width: 700px;
+    height: 700px;
+    margin-top: -240px;
+    
+  }
+ 
+
+  .içerik{
+    margin-left: 2%;
+    height: 700px;
+    width: 1450px;
+    color: rgb(109, 114, 114);
+    background-color: rgb(239, 236, 235);
+    position:static;
+    top: 15px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+  }
+  .içerikbody{
+    margin-top: -15px;
+    font: bold 10px Arial, Helvetica, sans-serif;
+  
+  }
+  .içerikyazi{
+    margin-top: 2px;
+  }
+ 
+
+  .içerikresim1{
+    width: 375px;
+    height: 375px;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-left: -120px;
+   
+  }
+.nia{
+  margin-left: -110px;
+  margin-top: 20px;
+}
+.shea{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.maru{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.içerikresim2{
+  width: 375px;
+    height: 375px;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-left: 30px;
+   
+}
+.içerikresim3{
+  width: 375px;
+    height: 375px;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-left: 30px;
+   
+}
+
+.arastirma{
+  margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.footerilkyazi{
+  margin-top: -10px;
+  margin-left: -10px;
+  font: 17px Arial,helvetica, sans-serif;
+}
+
+  
+.footeryazi {
+  margin-bottom: 30px;
+  font: 18px Arial, Helvetica, sans-serif;
+}
+
+.winxfooter {
+  margin-left: 2%;
+  text-transform: uppercase;
+  height: 700px;
+  width: 1450px;
+  color: rgb(91,91,91);
+  background-color: rgb(239, 236, 235);
+  border: none;
+  position: relative;
+  font: bold 14px Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+ margin-bottom: 5px;
+ margin-top: -120px;
+}
+.footersection {
+margin-bottom: 20px;
+  font: 20px Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
